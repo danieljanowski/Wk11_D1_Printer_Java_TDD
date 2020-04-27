@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="619f99d8-6ee8-4700-bc36-13436381b139" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1b7uk4in4nYmEvw1xsfhtT8wTPe" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
+  </component>
+  <component name="RunManager">
+    <configuration name="PrinterTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Printer" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PrinterTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.PrinterTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="619f99d8-6ee8-4700-bc36-13436381b139" name="Default Changelist" comment="" />
+      <created>1587995592065</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587995592065</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1147" y="242" key="#com.intellij.ide.util.MemberChooser" timestamp="1587997892239">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state x="-1147" y="242" key="#com.intellij.ide.util.MemberChooser/-1920.23.1920.1057/0.23.1680.965@-1920.23.1920.1057" timestamp="1587997892239" />
+    <state width="1878" height="290" key="GridCell.Tab.0.bottom" timestamp="1587998304962">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="290" key="GridCell.Tab.0.bottom/-1920.23.1920.1057/0.23.1680.965@-1920.23.1920.1057" timestamp="1587998304962" />
+    <state width="1878" height="290" key="GridCell.Tab.0.center" timestamp="1587998304961">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="290" key="GridCell.Tab.0.center/-1920.23.1920.1057/0.23.1680.965@-1920.23.1920.1057" timestamp="1587998304961" />
+    <state width="1878" height="290" key="GridCell.Tab.0.left" timestamp="1587998304960">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="290" key="GridCell.Tab.0.left/-1920.23.1920.1057/0.23.1680.965@-1920.23.1920.1057" timestamp="1587998304960" />
+    <state width="1878" height="290" key="GridCell.Tab.0.right" timestamp="1587998304962">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="290" key="GridCell.Tab.0.right/-1920.23.1920.1057/0.23.1680.965@-1920.23.1920.1057" timestamp="1587998304962" />
+  </component>
+</project>
